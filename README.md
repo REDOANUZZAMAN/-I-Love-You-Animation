@@ -140,7 +140,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👨‍💻 Author
 
-**Redoan Uzzaman**
+**Redoanuzzaman**
 - GitHub: [@redoanuzzaman](https://github.com/redoanuzzaman)
 - Email: redoanuzzaman707@gmail.com
 - Website: [redoan.dev](https://redoan.dev)
